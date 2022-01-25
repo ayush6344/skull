@@ -1,5 +1,6 @@
 {
 	"ip":"DrSKULL6.aternos.me",
 	"port": "14296",
-	"name": "skull"
+	"name": "afkbot"
+	"auto-night-skip":"true"
 }
